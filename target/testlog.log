@@ -1,0 +1,37 @@
+2020-07-29 02:40:40 [main] INFO  TestListenerImpl:23 - Loading properties file: C:\Users\laksh\cucumbertest-master\cucumbertest-master\JavaSeleniumTestForDBS/src/test/java/config/config.properties
+2020-07-29 02:40:40 [main] INFO  TestListenerImpl:19 - Running Navigation in DBS website
+2020-07-29 02:40:40 [main] INFO  TestListenerImpl:22 - Launching chrome browser
+2020-07-29 02:40:46 [main] INFO  TestListenerImpl:28 - Navigate to https://www.dbs.com.sg/index/default.page
+2020-07-29 02:40:47 [main] INFO  TestListenerImpl:32 - Navigating to https://www.dbs.com.sg/index/default.page
+2020-07-29 02:40:47 [main] INFO  LandingPageSteps:27 - User is in landing page
+2020-07-29 02:40:48 [main] INFO  LandingPageSteps:38 - User clicking on Learn More button under DBS Group tab
+2020-07-29 02:40:49 [main] INFO  LandingPageSteps:40 - User clicked on Learn More button under DBS Group tab
+2020-07-29 02:40:49 [main] INFO  SustainabilitySteps:31 - Scrolling to Singapore link in left pane
+2020-07-29 02:40:49 [main] INFO  SustainabilitySteps:33 - User clicking on Singapore link in left pane
+2020-07-29 02:40:50 [main] INFO  SustainabilitySteps:35 - User clicked on Singapore link in left pane
+2020-07-29 02:40:50 [main] INFO  SustainabilitySteps:47 - Feed the City programme table is displayed
+2020-07-29 02:40:50 [main] INFO  ExcelUtil:31 - Creating excel file in:C:\Users\laksh\cucumbertest-master\cucumbertest-master\JavaSeleniumTestForDBS/target/feedthecity.xlsx
+2020-07-29 02:40:51 [main] INFO  ExcelUtil:36 - Created excel file in:C:\Users\laksh\cucumbertest-master\cucumbertest-master\JavaSeleniumTestForDBS/target/feedthecity.xlsx
+2020-07-29 02:40:51 [main] INFO  ExcelUtil:47 - Creating sheet:Meals in file:C:\Users\laksh\cucumbertest-master\cucumbertest-master\JavaSeleniumTestForDBS/target/feedthecity.xlsx
+2020-07-29 02:40:51 [main] INFO  ExcelUtil:52 - Creating sheet:Meals in file:C:\Users\laksh\cucumbertest-master\cucumbertest-master\JavaSeleniumTestForDBS/target/feedthecity.xlsx
+2020-07-29 02:40:51 [main] INFO  ExcelUtil:62 - Updating excel file in:C:\Users\laksh\cucumbertest-master\cucumbertest-master\JavaSeleniumTestForDBS/target/feedthecity.xlsx
+2020-07-29 02:40:51 [main] INFO  ExcelUtil:100 - Updated excel file in:C:\Users\laksh\cucumbertest-master\cucumbertest-master\JavaSeleniumTestForDBS/target/feedthecity.xlsx
+2020-07-29 02:40:51 [main] INFO  AboutUsPageSteps:30 - User clicking on About Us button in header tab
+2020-07-29 02:40:52 [main] INFO  AboutUsPageSteps:32 - User clicked on About Us button in header tab
+2020-07-29 02:40:52 [main] INFO  AboutUsPageSteps:43 - User is in about us page
+2020-07-29 02:40:53 [main] INFO  AboutUsPageSteps:54 - User clicking on Who We Are Tab
+2020-07-29 02:40:53 [main] INFO  AboutUsPageSteps:56 - User clicked on Who We Are Tab
+2020-07-29 02:40:54 [main] INFO  AboutUsPageSteps:67 - User is in Who We Are tab in About Us page
+2020-07-29 02:40:55 [main] INFO  AboutUsPageSteps:78 - User clicking on Our Awards & Accolades section in Who We Are Tab
+2020-07-29 02:40:56 [main] INFO  AboutUsPageSteps:80 - User clicked on Our Awards & Accolades section in Who We Are Tab
+2020-07-29 02:40:56 [main] INFO  AwardsAndAccoladesPageSteps:32 - User is in awards & accolades page
+2020-07-29 02:40:56 [main] INFO  AwardsAndAccoladesPageSteps:44 - User is in awards & accolades page
+2020-07-29 02:40:56 [main] INFO  AwardsAndAccoladesPageSteps:54 - Validating awards displayed with caption value
+2020-07-29 02:40:56 [main] INFO  AwardsAndAccoladesPageSteps:58 - Validated awards:The Banker with caption:Bank of the Year 2018
+2020-07-29 02:40:56 [main] INFO  AwardsAndAccoladesPageSteps:58 - Validated awards:Global Finance with caption:Best Bank in the World 2018
+2020-07-29 02:40:57 [main] INFO  AwardsAndAccoladesPageSteps:58 - Validated awards:Euromoney with caption:Awards For Excellence
+2020-07-29 02:40:57 [main] INFO  AwardsAndAccoladesPageSteps:58 - Validated awards:Global Finance with caption:World's Best Banks
+2020-07-29 02:40:57 [main] INFO  AwardsAndAccoladesPageSteps:58 - Validated awards:Global Finance with caption:World's Best Investment Banks and Derivatives Providers
+2020-07-29 02:40:57 [main] INFO  AwardsAndAccoladesPageSteps:60 - Validated awards displayed with caption value
+2020-07-29 02:40:57 [main] INFO  AwardsAndAccoladesPageSteps:49 - Test completed for scenario: Navigation in DBS website
+2020-07-29 02:40:57 [main] INFO  AwardsAndAccoladesPageSteps:50 - Closing all browser windows

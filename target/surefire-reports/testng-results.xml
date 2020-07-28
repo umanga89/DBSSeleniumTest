@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="18050" started-at="2020-07-29T02:40:39 SGT" finished-at="2020-07-29T02:40:57 SGT">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGRunner@67784306]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Sanity Test Run" duration-ms="18050" started-at="2020-07-29T02:40:39 SGT" finished-at="2020-07-29T02:40:57 SGT">
+      <class name="testRunner.TestNGRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testRunner.TestNGRunner@67784306]" name="setUpClass" is-config="true" duration-ms="433" started-at="2020-07-29T02:40:40 SGT" finished-at="2020-07-29T02:40:40 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGRunner@67784306]" name="runScenario" duration-ms="17054" started-at="2020-07-29T02:40:40 SGT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-29T02:40:57 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigation in DBS website"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Test feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunner.TestNGRunner@67784306]" name="tearDownClass" is-config="true" duration-ms="179" started-at="2020-07-29T02:40:57 SGT" finished-at="2020-07-29T02:40:57 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.TestNGRunner -->
+    </test> <!-- Sanity Test Run -->
+  </suite> <!-- testsuite -->
+</testng-results>
